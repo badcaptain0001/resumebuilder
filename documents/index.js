@@ -114,7 +114,7 @@ module.exports = (values) => {
 		right: false;
 		bottom: false;
 		-webkit-transform: translate(-50%, -50%);
-				transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
 		text-align: center;
 		width: 88%;
 		font-style: normal;
